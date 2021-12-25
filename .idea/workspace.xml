@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="911a3977-6775-41f9-88e1-048e6dea2ff9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository\maven_jar" />
+        <option name="mavenHome" value="D:/Program Files/Java/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\MavenRepository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22lQMVqOd1mHYptSuh2Z6Ndhn9E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SmartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_smart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyx.smart.SmartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="911a3977-6775-41f9-88e1-048e6dea2ff9" name="Default Changelist" comment="" />
+      <created>1640409645567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640409645567</updated>
+      <workItem from="1640409649817" duration="1777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1380" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640409738760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1380" y="295" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1640409738760" />
+    <state x="661" y="249" key="new project wizard" timestamp="1640411138372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="249" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1640411138372" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart-admin/smart-admin.iml" filepath="$PROJECT_DIR$/smart-admin/smart-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-common/smart-common.iml" filepath="$PROJECT_DIR$/smart-common/smart-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework/smart-framework.iml" filepath="$PROJECT_DIR$/smart-framework/smart-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-generator/smart-generator.iml" filepath="$PROJECT_DIR$/smart-generator/smart-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-quartz/smart-quartz.iml" filepath="$PROJECT_DIR$/smart-quartz/smart-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-system/smart-system.iml" filepath="$PROJECT_DIR$/smart-system/smart-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_smart.iml" filepath="$PROJECT_DIR$/springboot_smart.iml" />
+    </modules>
+  </component>
+</project>
